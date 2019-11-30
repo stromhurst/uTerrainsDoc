@@ -106,9 +106,9 @@ Let's set up a few Voxel Types to work with in our terrain:
 	*Priority:* 2
 	*Blockiness:* 0
 	Leave the rest of the settings as-is
-  * **Grass**
+  * **Snow**
     *Name:* Snow
-	*Material Index:* 2 (make sure this matches your Grass material index in the *Terrain Materials* section above)
+	*Material Index:* 2 (make sure this matches your Snow material index in the *Terrain Materials* section above)
 	*Priority:* 3
 	*Blockiness:* 0
 	Leave the rest of the settings as-is
